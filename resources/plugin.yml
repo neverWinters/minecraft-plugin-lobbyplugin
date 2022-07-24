@@ -1,0 +1,10 @@
+name: LobbyPlugin
+main: me.neverwinters.lobbyplugin.Main
+version: 1.0
+api-version: 1.18
+commands: 
+  setlobby:
+    description: Sets the lobby so a player can do /lobby
+  lobby:
+    description: Teleports to lobby
+    aliases: hub
